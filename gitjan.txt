@@ -6,3 +6,13 @@
 - comit and push
 - edit and delete
 - pull and so on.....
+
+
+- first thing to do:
+1 how can I connect with other inidvidually
+2 how can I work with others
+
+
+now one thing am going to try is to work weather they are 
+- one directory for one repo?
+- one directory for different ?
