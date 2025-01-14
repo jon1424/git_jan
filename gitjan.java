@@ -1,5 +1,5 @@
 public class {
     public static void main(Static a[]){
-        System.out.print("hello world")
+        System.out.print("hello Jona")
     }
 }
